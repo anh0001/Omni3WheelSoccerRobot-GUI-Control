@@ -4,9 +4,9 @@ Welcome to the GitHub repository for our Omni/3-Wheel Soccer Robot GUI & Control
 
 ## Team Members
 
-- Member 1 : Mulloh Muhammad Aditya - 4121600032
-- Member 2 : Syahrul Febriansah - 4121600035
-- Member 3 : TaufiqkHendry Laksono  - 4121600049 
+- Member 1 : MULLOH MUHAMMAD ADITYA - 4121600032
+- Member 2 : SYAHRUL FEBRIANSAH - 4121600035
+- Member 3 : TAUFIK HENDRY LAKSONO  - 4121600049 
 
 ## Repository Structure
 
