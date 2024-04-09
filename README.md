@@ -4,10 +4,13 @@ Welcome to the GitHub repository for our Omni/3-Wheel Soccer Robot GUI & Control
 
 ## Team Members
 
-- Kelas B Meka 2023:
-  - Member 1 : Mulloh Muhammad Aditya - 4121600032
-  - Member 2 : Syahrul Febriansah - 4121600035
-  - Member 3 : Taufik Hendry Laksono - 4121600049 
+- Mechatronics A 2021
+  - Saiful Huda         - 4121600001
+  - Farhan Karman Jaya  - 4121600009
+- Mechatronics B 2021
+  - Mulloh Muhammad Aditya  - 4121600032
+  - Syahrul Febriansah      - 4121600035
+  - Taufik Hendry Laksono   - 4121600049 
 
 ## Repository Structure
 
