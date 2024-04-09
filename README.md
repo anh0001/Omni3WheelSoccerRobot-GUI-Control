@@ -21,8 +21,8 @@ This repository is organized into several folders to ensure a clear and manageab
     - `Common/`: Code shared between GUI and Control components.
 
 - **`docs/` (Documentation)**
-  - laporan Sementara dan Akhir
-  - Referensi
+  - Documentation related to the project.
+  - Includes files like `ProjectOverview.md`, `Installation.md`, and `Usage.md`.
 
 - **`tests/` (Testing)**
   - Test scripts and frameworks.
