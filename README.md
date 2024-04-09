@@ -4,9 +4,9 @@ Welcome to the GitHub repository for our Omni/3-Wheel Soccer Robot GUI & Control
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
-- ... (Add all team members with their IDs)
+- Kelas A Meka 2023:
+  - Member 1 : Saiful Huda - 4121600001
+  - Member 2 : Farhan Karman Jaya - 4121600009
 
 ## Repository Structure
 
